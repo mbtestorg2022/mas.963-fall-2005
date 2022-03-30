@@ -134,9 +134,9 @@ Marshall, John. "Filming and Learning." In _The Cinema of John Marshall_. Visual
   
 Review "[A Kalahari Family](http://der.org/films/a-kalahari-family.html)" from [Documentary Educational Resources](http://der.org/) to get a sense of John Marshall's ethnographic life work.  
   
-Leacock, Richard. "The Art of Home Movies." ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ([PDF](http://mf.media.mit.edu/courses/2006/mas845/readings/files/RLTheArtOfHomeMovies.pdf)) November 30, 1993. (Draft article)  
+Leacock, Richard. "The Art of Home Movies."  ([PDF](http://mf.media.mit.edu/courses/2006/mas845/readings/files/RLTheArtOfHomeMovies.pdf)) November 30, 1993. (Draft article)  
   
-———. "A search for a Feeling of Being There." ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ([PDF](http://mf.media.mit.edu/courses/2006/mas845/readings/files/RLFeeling%20of%20Being%20There.pdf)) May 20, 1997.  
+———. "A search for a Feeling of Being There."  ([PDF](http://mf.media.mit.edu/courses/2006/mas845/readings/files/RLFeeling%20of%20Being%20There.pdf)) May 20, 1997.  
   
 _Additional Recommended Reading  
   
@@ -218,7 +218,7 @@ _Resnick, M., et al. "Beyond Black Boxes: Bringing Transparency and Aesthetics B
   
 Martin, F. "Kids Learning Engineering Science Using LEGO and the Programmable Brick." Paper Presented at Annual Meeting of AERA, New York, NY, April 8-12, 1996. ([PDF - 1.5 MB](http://www.cs.uml.edu/~fredm/papers/fredm-kids-engineering-science-aera96.pdf))  
   
-Turbak, F., and R. Berg. "Robotic Design Studio: Exploring the Big Ideas of Engineering in a Liberal Arts Environment." _Journal of Science Education and Technology_ 11, no. 3 (September 2002): 237-253. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cs.wellesley.edu/~fturbak/pubs/RDS-AAAI.pdf))  
+Turbak, F., and R. Berg. "Robotic Design Studio: Exploring the Big Ideas of Engineering in a Liberal Arts Environment." _Journal of Science Education and Technology_ 11, no. 3 (September 2002): 237-253. ([PDF](http://cs.wellesley.edu/~fturbak/pubs/RDS-AAAI.pdf))  
   
 Martin, F., et al. "To Mindstorms and Beyond: Evolution of a Construction Kit for Magical Machines." Chapter 1 in _Robots for Kids_. Edited by J. Hendler and A. Druin. San Francisco, CA: Morgan Kaufman, 2000. ISBN: 9781558605978. ([PDF](http://www.wellesley.edu/Physics/Rberg/papers/RDS-JSET-final.pdf))  
   
